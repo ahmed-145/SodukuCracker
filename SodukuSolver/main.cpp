@@ -1,7 +1,6 @@
 #include<iostream>
 #include<fstream>
 #include <cstdlib>
-//#include <Windows.h>
 using namespace std;
 
 
