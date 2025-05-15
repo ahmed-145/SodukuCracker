@@ -26,7 +26,6 @@ This is a fully functional **Sudoku Solver** written in C++ using **recursive ba
 ### 🔧 Requirements
 
 - C++11 or later
-- Windows OS (uses `<Windows.h>`)
 - Command-line terminal
 
 > ⚠ Linux/Mac users: replace `<Windows.h>` with platform-agnostic code if needed.
@@ -61,9 +60,7 @@ Edit
 When prompted, enter the filename (e.g., puzzle.txt).
 
 🖥 Sample Output
-text
-Copy
-Edit
+...
 ++=====================================++
 || 5  3     || 6     7     || 9     2  ||
 ++-----------++-----------++-----------++
