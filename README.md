@@ -99,5 +99,3 @@ MIT License — feel free to use, modify, or extend the project.
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
-
-Want me to generate the file and send it over, or include badges, screenshots, or GitHub Actions in this README?
