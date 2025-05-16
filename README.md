@@ -28,8 +28,6 @@ This is a fully functional **Sudoku Solver** written in C++ using **recursive ba
 - C++11 or later
 - Command-line terminal
 
-> ⚠ Linux/Mac users: replace `<Windows.h>` with platform-agnostic code if needed.
-
 ### 🛠 Compile & Run
 
 g++ -o sudoku_solver sudoku_solver.cpp
